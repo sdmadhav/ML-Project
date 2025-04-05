@@ -3,7 +3,7 @@ Project -  Helping HR for employee Retentions Using Logistic Regression
 
 Dataset is downloaded from Kaggle. Link: https://www.kaggle.com/giripujar/hr-analytics
 
-# Here's a breakdown of the libraries used in american sign language recognition code, along with their purposes:
+# Here's a breakdown of the libraries used in [american sign language recognition code](https://github.com/sdmadhav/ML-Project/blob/main/ufm_american_sign_language_detection.ipynb), along with their purposes:
 
 **Data Handling and Visualization:**
 
